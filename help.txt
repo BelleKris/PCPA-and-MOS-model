@@ -1,0 +1,3 @@
+(1)pathway regulation.r is used to analysis the regulation patterns of ncRNAs on cancer-related pathways;
+(2)PCPA modeling.py is designed to construct the PCPA modeling;
+(3)MOS modeling.py is designed to construct the MOS modeling.
